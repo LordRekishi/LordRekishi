@@ -9,19 +9,26 @@ Contact e-mail: patrik.fallqvist@gmail.com
 Technologies I have worked with and currently study:
 
 - **JAVA**
-  - *Maven, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing, MVC workflow*
+  - *Maven,  JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
 
 - **SQL**
   - *MySQL, JDBC/JPA, PostgreSQL*
 
-- **JAVASCRIPT**
-  - *HTML, CSS*
+- **WEB**
+  - *JavaScript, HTML, CSS*
 
 - **GIT**
-  - *GitHub, Bitbucket, GitLab, Console commands*
+  - *GitHub, Jenkins/Github Actions, Bitbucket, GitLab, Console commands*
+
+- **DOCKER**
+
+- **UML & ER Modeling**
 
 - **IDEs**
   - *IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL Workbench*
+
+- **WORKFLOW**
+  - *TDD, MVC, CI & CD Github actions*
 
 - **SOME KNOWLEDGE IN**
   - *C#*
@@ -37,4 +44,4 @@ Technologies I have worked with and currently study:
 
 ---
 
-Looking for part-time work during my studies!
+Looking for **Part-time Work** and **Internships** during my studies!
