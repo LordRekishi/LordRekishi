@@ -2,7 +2,8 @@ Java fullstack developer in the making
 
 Currently undertaking a full-time 2-year Java Developer fullstack program @IT-Högskolan, Gothenburg
 
-Contact e-mail: patrik.fallqvist@gmail.com
+Contact e-mail: patrik.fallqvist@gmail.com  
+LinkedIn: https://www.linkedin.com/in/patrik-fallqvist/
 
 ---
 
