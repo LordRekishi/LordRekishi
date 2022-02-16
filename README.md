@@ -9,7 +9,7 @@ Contact e-mail: patrik.fallqvist@gmail.com
 Technologies I have worked with and currently study:
 
 - **JAVA**
-  - *Maven,  JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
+  - *Maven, Java/Jakarta EE, Spring Boot, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
 
 - **SQL**
   - *MySQL, JDBC/JPA, PostgreSQL*
