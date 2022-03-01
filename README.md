@@ -4,7 +4,7 @@
 
 <p align='center'>
 Java fullstack developer in the making!
-Currently undertaking a full-time 2-year Java Developer fullstack program @IT-Högskolan, Gothenburg
+Currently undertaking a 2-year Java Developer fullstack program @IT-Högskolan, Gothenburg
 </p>
  
 <p align='center'>
