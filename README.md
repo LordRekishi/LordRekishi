@@ -26,7 +26,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 
 ---
 
-Technologies I have worked with and currently study:
+#### Technologies I have worked with and currently study:
 
 - **JAVA**
   - *Maven, Java/Jakarta EE, Spring Boot, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
@@ -66,6 +66,15 @@ Technologies I have worked with and currently study:
   - *Music, singing and other creative pursuits*
   - *Team player, willing and eager to learn*
   - *Winner of Nexer Group's prestigious "how much does that jar of coffee beans weigh?" competition (won a brand new keyboard!)* ;)
+
+---
+
+#### Major Projects in my studies:
+- Class project in Java tools & Build environments course: [Storm](https://github.com/fungover/storm)
+  - A simple webserver implementation where we practiced using a CI pipeline
+
+- Final group project in Spring Boot for our Java EE/Spring boot course: [CrimeDatabase](https://github.com/Patlenlix/CrimeDatabase)
+  - A project following a CI pipeline, where we created a Crime database using Spring boot. With basic security and frontend in Thymeleaf. Feel free to explore our [issues](https://github.com/Patlenlix/CrimeDatabase/issues), [pull requests](https://github.com/Patlenlix/CrimeDatabase/pulls), [README.md](https://github.com/Patlenlix/CrimeDatabase/blob/main/README.md), [project roadmap](https://github.com/orgs/Patlenlix/projects/1) and published [releases](https://github.com/Patlenlix/CrimeDatabase/releases).
 
 ---
 
