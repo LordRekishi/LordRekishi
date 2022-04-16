@@ -31,8 +31,8 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 - **JAVA**
   - *Maven, Java/Jakarta EE, Spring Boot, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
 
-- **SQL**
-  - *MySQL, JDBC/JPA, PostgreSQL*
+- **DATABASE**
+  - *MySQL, JDBC/JPA, PostgreSQL, MongoDB*
 
 - **WEB**
   - *JavaScript, HTML, CSS*
@@ -41,6 +41,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - *GitHub, Jenkins/Github Actions, Bitbucket, GitLab, Console commands*
 
 - **DOCKER**
+  - *Docker compose, Kubernetes*
 
 - **RESTful Web Services**
 
@@ -50,10 +51,10 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - *AWS*
 
 - **IDEs**
-  - *IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL Workbench*
+  - *IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code*
 
 - **WORKFLOW**
-  - *TDD, MVC, CI & CD Github actions*
+  - *TDD, MVC, CI & CD pipelines, Github actions*
 
 - **SOME KNOWLEDGE IN**
   - *C#*
