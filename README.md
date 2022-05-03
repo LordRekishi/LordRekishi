@@ -29,7 +29,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 #### Technologies I have worked with and currently study:
 
 - **JAVA**
-  - *Maven, Java/Jakarta EE, Spring Boot, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
+  - *Maven, Java/Jakarta EE, Spring Boot, Micronaut, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing*
 
 - **DATABASE**
   - *MySQL, JDBC/JPA, PostgreSQL, MongoDB*
