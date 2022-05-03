@@ -41,7 +41,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - *GitHub, Jenkins/Github Actions, Bitbucket, GitLab, Console commands*
 
 - **DOCKER**
-  - *Docker compose, Kubernetes*
+  - *Docker compose, Kubernetes, GraalVM*
 
 - **RESTful Web Services**
 
