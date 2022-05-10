@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-Java fullstack developer in the making!
+Java fullstack developer in the making!</br>
 Currently undertaking a 2-year Java Developer fullstack program @IT-Högskolan, Gothenburg
 </p>
  
@@ -26,29 +26,28 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 
 ---
 
-#### Technologies I have worked with and currently study:
+<h3 align='center'>Technologies I have worked with and currently study:</h3>
 
 - **JAVA**
   - Maven, Java/Jakarta EE, Spring Boot, Micronaut, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
-  - MySQL, JDBC/JPA, PostgreSQL, MongoDB
+  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, UML & ER Modeling
 
 - **WEB**
   - JavaScript, HTML, CSS
 
 - **GIT**
-  - GitHub, Jenkins/Github Actions, Bitbucket, GitLab, Console commands
+  - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
 
 - **DOCKER**
   - Docker compose, Kubernetes, GraalVM
 
-- **RESTful Web Services**
-
-- **UML & ER Modeling**
+- **WEB SERVICES**
+  - RESTful API, Microservices, Consul/Vault
 
 - **CLOUD**
-  - AWS, Serverless, Microservices, Consul/Vault
+  - AWS, Serverless
 
 - **IDEs**
   - IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code
@@ -70,7 +69,8 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 
 ---
 
-#### Major Projects in my studies:
+<h3 align='center'>Major Projects during my studies:</h3>
+
 - Class project in Java tools & Build environments course: [Storm](https://github.com/fungover/storm)
   - A simple webserver implementation where we practiced using a CI pipeline
 
