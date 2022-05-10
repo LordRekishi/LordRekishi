@@ -48,7 +48,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 - **UML & ER Modeling**
 
 - **CLOUD**
-  - AWS, Serverless
+  - AWS, Serverless, Microservices, Consul/Vault
 
 - **IDEs**
   - IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code
