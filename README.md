@@ -77,6 +77,11 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 - Final group project in Spring Boot for our Java EE/Spring boot course: [CrimeDatabase](https://github.com/Patlenlix/CrimeDatabase)
   - A project following a CI pipeline, where we created a Crime database using Spring boot. With basic security and frontend in Thymeleaf. Feel free to explore our [issues](https://github.com/Patlenlix/CrimeDatabase/issues), [pull requests](https://github.com/Patlenlix/CrimeDatabase/pulls), [README.md](https://github.com/Patlenlix/CrimeDatabase/blob/main/README.md), [project roadmap](https://github.com/orgs/Patlenlix/projects/1) and published [releases](https://github.com/Patlenlix/CrimeDatabase/releases).
 
+- Final class project in our Web Services course, exploring microservices and how they connect/interact: [Image-Storage Service](https://github.com/Patlenlix/image-storage)
+  - Each group designed a specific microservice for a Twittter/Facebook-clone backend. Our responsibility was to create an Image service that could be used to upload, download and store images. Each service should also work independently and use server side configuration (in our case using Consul Key/Value).
+  - We also created a [Gateway Service](https://github.com/Patlenlix/gateway) to be used as an entrypoint and loadbalancer in front of the other services. 
+  - Please see README on each of these services for more information.
+
 ---
 
 Looking for **Part-time Work** and **Internships** during my studies!
