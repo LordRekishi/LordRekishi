@@ -35,7 +35,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - MySQL, JDBC/JPA, PostgreSQL, MongoDB, UML & ER Modeling
 
 - **WEB**
-  - JavaScript, HTML, CSS
+  - HTML, CSS, Javascript, VUE
 
 - **GIT**
   - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
