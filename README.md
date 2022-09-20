@@ -53,7 +53,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code
 
 - **WORKFLOW**
-  - TDD, MVC, CI & CD pipelines, Github actions
+  - TDD, MVC, CI & CD pipelines, Github actions, Agile methods
 
 - **SOME KNOWLEDGE IN**
   - C#
