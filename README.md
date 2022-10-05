@@ -32,10 +32,10 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - Maven, Java/Jakarta EE, Spring Boot, Micronaut, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
-  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, UML & ER Modeling
+  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite UML & ER Modeling
 
 - **WEB**
-  - HTML, CSS, Javascript, VUE
+  - HTML, CSS, Javascript, Vue Composition API, Node.js, Express
 
 - **GIT**
   - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
@@ -53,7 +53,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code
 
 - **WORKFLOW**
-  - TDD, MVC, CI & CD pipelines, Github actions, Agile methods
+  - TDD, MVC, CI & CD pipelines, Github actions, Agile methods, Scrum
 
 - **SOME KNOWLEDGE IN**
   - C#
@@ -81,6 +81,14 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - Each group designed a specific microservice for a Twittter/Facebook-clone backend. Our responsibility was to create an Image service that could be used to upload, download and store images. Each service should also work independently and use server side configuration (in our case using Consul Key/Value).
   - We also created a [Gateway Service](https://github.com/Patlenlix/gateway) to be used as an entrypoint and loadbalancer in front of the other services. 
   - Please see README on each of these services for more information.
+
+- Final group project in our Agile and Web application courses, working professionally using the Agile software development approach with Scrum: [Paefax Project Organisation](https://github.com/Paefax)
+  - The purpose of this project was to create a Quiz learning app following the Agile approach as close to reality as possible with our teacher Kevin being our customer and product owner, using a scrum approach with sprints and a agile workspace board.
+  - We decided to make a language quiz app inspired by Duolingo using Vue Composition API for frontend and Node express for backend, with a SQLite database.
+  - Vue frontend repository: [Paefax Language App](https://github.com/Paefax/paefax-language-app)
+  - Node backend repository: [Coming soon!]()
+  - Agile board: [Trello board](https://trello.com/b/yGDs6Lc3)
+  - Please see README of any repository for the other group members and their GitHub links
 
 ---
 
