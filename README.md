@@ -29,7 +29,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 <h3 align='center'>Technologies I have worked with and currently study:</h3>
 
 - **JAVA**
-  - Maven, Java/Jakarta EE, Spring Boot, Micronaut, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
+  - Maven, Java/Jakarta EE, Spring Boot, Micronaut, Quarkus, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
   - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite UML & ER Modeling
@@ -86,10 +86,10 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - The purpose of this project was to create a Quiz learning app following the Agile approach as close to reality as possible with our teacher Kevin being our customer and product owner, using a scrum approach with sprints and a agile workspace board.
   - We decided to make a language quiz app inspired by Duolingo using Vue Composition API for frontend and Node express for backend, with a SQLite database.
   - Vue frontend repository: [Paefax Language App](https://github.com/Paefax/paefax-language-app)
-  - Node backend repository: [Coming soon!]()
+  - Node backend repository: [Paefax Language Backend](https://github.com/Paefax/paefax-language-backend)
   - Agile board: [Trello board](https://trello.com/b/yGDs6Lc3)
   - Please see README of any repository for the other group members and their GitHub links
 
 ---
 
-Looking for **Part-time Work** and **Internships** during my studies!
+Looking for **Part-time Work** during my studies!
