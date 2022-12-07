@@ -33,7 +33,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - Maven, Java/Jakarta EE, Spring Boot, Micronaut, Quarkus, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
-  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite UML & ER Modeling
+  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite, UML & ER Modeling
 
 - **WEB**
   - HTML, CSS, Javascript, Vue Composition API, React JS, Node.js, Express
