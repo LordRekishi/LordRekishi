@@ -4,7 +4,8 @@
 
 <p align='center'>
 Java fullstack developer in the making!</br>
-Currently undertaking a 2-year Java Developer fullstack program @IT-Högskolan, Gothenburg
+Undertaking a 2-year Java Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
+Currently doing my internship @<a href='https://www.mobilityguard.com/'>MobilityGuard</a>
 </p>
  
 <p align='center'>
