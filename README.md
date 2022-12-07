@@ -35,7 +35,7 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite UML & ER Modeling
 
 - **WEB**
-  - HTML, CSS, Javascript, Vue Composition API, Node.js, Express
+  - HTML, CSS, Javascript, Vue Composition API, React JS, Node.js, Express
 
 - **GIT**
   - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
@@ -50,10 +50,13 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - AWS, Serverless
 
 - **IDEs**
-  - IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code
+  - IntelliJ, MySQL workbench, Visual Studio Code
 
 - **WORKFLOW**
   - TDD, MVC, CI & CD pipelines, Github actions, Agile methods, Scrum
+
+- **OS**
+  - Linux (PopOS!, Gnome), Windows, MacOS
 
 - **SOME KNOWLEDGE IN**
   - C#
