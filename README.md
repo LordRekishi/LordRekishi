@@ -33,10 +33,10 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - Maven, Java/Jakarta EE, Spring Boot, Micronaut, Quarkus, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
-  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite, UML & ER Modeling
+  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite
 
 - **WEB**
-  - HTML, CSS, Javascript, Vue Composition API, React JS, Node.js, Express
+  - HTML, CSS, Javascript, Vue JS, React JS, Node JS, Express, Redux, Pinia, JWT, CSS Frameworks (Tailwind, Bootstrap, AdminLTE)
 
 - **GIT**
   - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
@@ -54,10 +54,13 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - IntelliJ, MySQL workbench, Visual Studio Code
 
 - **WORKFLOW**
-  - TDD, MVC, CI & CD pipelines, Github actions, Agile methods, Scrum
+  - TDD, MVC, CI & CD pipelines, Github actions & Projects, Agile methods, Scrum, Trello
+
+- **Design**
+  - Figma Wireframes, UML & ER Modeling
 
 - **OS**
-  - Linux (PopOS!, Gnome), Windows, MacOS
+  - Linux (PopOS!, Gnome, Ubuntu), Windows, MacOS
 
 - **SOME KNOWLEDGE IN**
   - C#
