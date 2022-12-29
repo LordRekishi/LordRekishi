@@ -25,6 +25,8 @@ Currently doing my internship @<a href='https://www.mobilityguard.com/'>Mobility
 How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gmail.com</a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lordrekishin&label=Profile%20views&color=0e75b6&style=flat" alt="Lord Rekishi profile views"/></p>
+
 ---
 
 <h3 align='center'>Technologies I have worked with and currently study:</h3>
