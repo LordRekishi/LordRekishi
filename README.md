@@ -18,7 +18,7 @@ Currently doing my internship @<a href='https://www.mobilityguard.com/'>Mobility
 </p>
   
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lordrekishi&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lordrekishi&show_icons=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
