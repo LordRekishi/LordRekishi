@@ -35,10 +35,10 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
   - Maven, Java/Jakarta EE, Spring Boot, Micronaut, Quarkus, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
 
 - **DATABASE**
-  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite
+  - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite, MariaDB, LDAP/AD
 
 - **WEB**
-  - HTML, CSS, Javascript, Vue JS, React JS, Node JS, Express, Redux, Pinia, JWT, CSS Frameworks (Tailwind, Bootstrap, AdminLTE)
+  - HTML, CSS, Javascript, Vue JS, React JS, Node JS, Express, Redux, Pinia, JWT, Three JS, CSS Frameworks (Tailwind, Bootstrap, AdminLTE)
 
 - **GIT**
   - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
