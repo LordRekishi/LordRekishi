@@ -37,14 +37,17 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 - **DATABASE**
   - MySQL, JDBC/JPA, PostgreSQL, MongoDB, SQLite, MariaDB, LDAP/AD
 
+- **SECURITY**
+  - OpenID, Keycloak, OpenSSL, ACL
+
 - **WEB**
-  - HTML, CSS, Javascript, Vue JS, React JS, Node JS, Express, Redux, Pinia, JWT, Three JS, CSS Frameworks (Tailwind, Bootstrap, AdminLTE)
+  - HTML, CSS, Javascript, Vue, React, Node, Express, Redux, Pinia, JWT, Three JS, CSS Frameworks (Tailwind, Bootstrap, MaterialUI)
 
 - **GIT**
   - Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
 
 - **DOCKER**
-  - Docker compose, Kubernetes, GraalVM
+  - Docker, Docker compose, Kubernetes, GraalVM
 
 - **WEB SERVICES**
   - RESTful API, Microservices, Consul/Vault
@@ -67,10 +70,10 @@ How to reach me: <a href='mailto:patrik.fallqvist@gmail.com'>patrik.fallqvist@gm
 - **SOME KNOWLEDGE IN**
   - C#
   - VISUAL BASIC
+  - Excel
 
 - **OTHER**
   - Major interest in PC hardware and software
-  - Excel and Google Sheets nut
   - Problem solving, creative solutions and out-of-the-box thinking
   - Music, singing and other creative pursuits
   - Team player, willing and eager to learn
