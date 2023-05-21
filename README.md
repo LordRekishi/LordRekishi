@@ -3,9 +3,9 @@
 </h1>
 
 <p align='center'>
-Java fullstack developer in the making!</br>
-Undertaking a 2-year Java Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
-Currently doing my internship @<a href='https://www.mobilityguard.com/'>MobilityGuard</a>
+Java fullstack developer</br>
+Undertook a 2-year Java Developer fullstack program @<a href='https://www.iths.se/'>IT-Högskolan</a></br>
+Currently working @<a href='https://www.mobilityguard.com/'>MobilityGuard</a>
 </p>
  
 <p align='center'>
